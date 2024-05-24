@@ -8,3 +8,4 @@ Console.WriteLine("Hello, World!");
 //new PickingNumbers();
 //new CeasarCipher();
 //new FindDigits();
+//new SherlockAndSquares();
