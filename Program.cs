@@ -10,3 +10,4 @@ Console.WriteLine("Hello, World!");
 //new FindDigits();
 //new SherlockAndSquares();
 //new LibraryFine();
+//new CutTheSticks();
