@@ -13,3 +13,7 @@ Console.WriteLine("Hello, World!");
 //new CutTheSticks();
 //new RepeatedString();
 //new JumpingOnClouds();
+//new EqualizeArray();
+
+
+
