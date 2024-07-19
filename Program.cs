@@ -17,3 +17,4 @@ Console.WriteLine("Hello, World!");
 //new ExtraLongFactorials();
 //new TaumBDay();
 //new KaprekarNumbers();
+//new Encryption();
